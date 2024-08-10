@@ -14,10 +14,10 @@ Model deployment
 
 *Project Structure*
 The project contains the following files and directories:
-├── breast_cancer_prediction.ipynb  # Jupyter notebook for data analysis and model development
-├── app.py                           # Streamlit app script for deployment
-├── requirements.txt                 # List of dependencies
-└── README.md                        # Project documentation (this file)
+-breast_cancer_prediction.ipynb  # Jupyter notebook for data analysis and model development
+-app.py                           # Streamlit app script for deployment
+-requirements.txt                 # List of dependencies
+-README.md                        # Project documentation (this file)
 
 *Description of Files*
 -breast_cancer_prediction.ipynb: Contains the complete workflow, including data loading, preprocessing, feature selection, model training, and evaluation.
